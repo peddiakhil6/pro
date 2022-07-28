@@ -1,6 +1,8 @@
-<<<<<<< HEA..... modify code....D
-.......... CODe.............
-=======
-.......... CODE-A..........
-
->>>>>>> devops
+class Demo
+  {
+     public static void main(...)
+     {
+         s.o.print(" Hello World!"); 
+         s.o.print(" Hello World!"); 
+     }
+  }
